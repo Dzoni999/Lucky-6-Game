@@ -1,0 +1,28 @@
+C:\Users\Nikola Sajic\source\repos\Vezbanje 23_07\Lucky numbers\bin\Debug\net8.0\Lucky numbers.exe
+C:\Users\Nikola Sajic\source\repos\Vezbanje 23_07\Lucky numbers\bin\Debug\net8.0\Lucky numbers.deps.json
+C:\Users\Nikola Sajic\source\repos\Vezbanje 23_07\Lucky numbers\bin\Debug\net8.0\Lucky numbers.runtimeconfig.json
+C:\Users\Nikola Sajic\source\repos\Vezbanje 23_07\Lucky numbers\bin\Debug\net8.0\Lucky numbers.dll
+C:\Users\Nikola Sajic\source\repos\Vezbanje 23_07\Lucky numbers\bin\Debug\net8.0\Lucky numbers.pdb
+C:\Users\Nikola Sajic\source\repos\Vezbanje 23_07\Lucky numbers\obj\Debug\net8.0\Lucky numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikola Sajic\source\repos\Vezbanje 23_07\Lucky numbers\obj\Debug\net8.0\Lucky numbers.AssemblyInfoInputs.cache
+C:\Users\Nikola Sajic\source\repos\Vezbanje 23_07\Lucky numbers\obj\Debug\net8.0\Lucky numbers.AssemblyInfo.cs
+C:\Users\Nikola Sajic\source\repos\Vezbanje 23_07\Lucky numbers\obj\Debug\net8.0\Lucky numbers.csproj.CoreCompileInputs.cache
+C:\Users\Nikola Sajic\source\repos\Vezbanje 23_07\Lucky numbers\obj\Debug\net8.0\Lucky numbers.dll
+C:\Users\Nikola Sajic\source\repos\Vezbanje 23_07\Lucky numbers\obj\Debug\net8.0\refint\Lucky numbers.dll
+C:\Users\Nikola Sajic\source\repos\Vezbanje 23_07\Lucky numbers\obj\Debug\net8.0\Lucky numbers.pdb
+C:\Users\Nikola Sajic\source\repos\Vezbanje 23_07\Lucky numbers\obj\Debug\net8.0\Lucky numbers.genruntimeconfig.cache
+C:\Users\Nikola Sajic\source\repos\Vezbanje 23_07\Lucky numbers\obj\Debug\net8.0\ref\Lucky numbers.dll
+C:\Users\Nikola Sajic\source\repos\Lucky 6 Igrica 23_07\Lucky numbers\bin\Debug\net8.0\Lucky numbers.exe
+C:\Users\Nikola Sajic\source\repos\Lucky 6 Igrica 23_07\Lucky numbers\bin\Debug\net8.0\Lucky numbers.deps.json
+C:\Users\Nikola Sajic\source\repos\Lucky 6 Igrica 23_07\Lucky numbers\bin\Debug\net8.0\Lucky numbers.runtimeconfig.json
+C:\Users\Nikola Sajic\source\repos\Lucky 6 Igrica 23_07\Lucky numbers\bin\Debug\net8.0\Lucky numbers.dll
+C:\Users\Nikola Sajic\source\repos\Lucky 6 Igrica 23_07\Lucky numbers\bin\Debug\net8.0\Lucky numbers.pdb
+C:\Users\Nikola Sajic\source\repos\Lucky 6 Igrica 23_07\Lucky numbers\obj\Debug\net8.0\Lucky numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikola Sajic\source\repos\Lucky 6 Igrica 23_07\Lucky numbers\obj\Debug\net8.0\Lucky numbers.AssemblyInfoInputs.cache
+C:\Users\Nikola Sajic\source\repos\Lucky 6 Igrica 23_07\Lucky numbers\obj\Debug\net8.0\Lucky numbers.AssemblyInfo.cs
+C:\Users\Nikola Sajic\source\repos\Lucky 6 Igrica 23_07\Lucky numbers\obj\Debug\net8.0\Lucky numbers.csproj.CoreCompileInputs.cache
+C:\Users\Nikola Sajic\source\repos\Lucky 6 Igrica 23_07\Lucky numbers\obj\Debug\net8.0\Lucky numbers.dll
+C:\Users\Nikola Sajic\source\repos\Lucky 6 Igrica 23_07\Lucky numbers\obj\Debug\net8.0\refint\Lucky numbers.dll
+C:\Users\Nikola Sajic\source\repos\Lucky 6 Igrica 23_07\Lucky numbers\obj\Debug\net8.0\Lucky numbers.pdb
+C:\Users\Nikola Sajic\source\repos\Lucky 6 Igrica 23_07\Lucky numbers\obj\Debug\net8.0\Lucky numbers.genruntimeconfig.cache
+C:\Users\Nikola Sajic\source\repos\Lucky 6 Igrica 23_07\Lucky numbers\obj\Debug\net8.0\ref\Lucky numbers.dll
